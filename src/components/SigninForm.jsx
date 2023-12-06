@@ -17,11 +17,11 @@ const SigninForm = ({ onSwitchMode }) => {
                 maxWidth: "500px"
             }}>
                 <Stack>
-                    <Typography variant='h4' fontWeight={600} color={colors.grey[800]}>
+                    <Typography variant='h2' fontWeight={600} color={colors.grey[800]}>
                         Welcome back
                     </Typography>
                     <Typography color={colors.grey[600]}>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit
+                        Signin to your account
                     </Typography>
                 </Stack>
 
